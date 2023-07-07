@@ -1,6 +1,6 @@
 **Project Portfolio: https://github.com/calebyhan/CalebHan**
 
-Rock paper scissors simulator
+Rock paper scissors simulator with pygame
 
 The icons bounce, and change their icon when colliding with a different type of icon.
 
